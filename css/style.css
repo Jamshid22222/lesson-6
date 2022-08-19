@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+background-color:rgb(222, 220, 202)
+}
+
+.hero {
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 350px;
+}
+
+.list {
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+h3 {
+    color: aqua;
+    display: flex;
+    justify-content: center;
+}
